@@ -1,9 +1,13 @@
 
+
+
+
 backend:
-  name: github
+  name: auth0
+  auth0_domain: dev-sc0spidlz720dgyx.us.auth0.com
+  auth0_client_id: dev-sc0spidlz720dgyx
   repo: MagedMoussa361/drmagedmoussa-site
   branch: main
-  squash_merges: true
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
