@@ -1,12 +1,5 @@
-
-
-
-
 backend:
-  name: auth0
-  auth0_domain: dev-sc0spidlz720dgyx.us.auth0.com
-  auth0_client_id: lxxmflBxxIQsHdHUaa1eXXjKnHIJkuBg
-  repo: MagedMoussa361/drmagedmoussa-site
+  name: git-gateway
   branch: main
 
 media_folder: "static/uploads"
