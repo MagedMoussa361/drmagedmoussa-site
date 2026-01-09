@@ -1,6 +1,5 @@
-baseURL = 'https://drmagedmoussa.netlify.app/'
-'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://drmagedmoussa.netlify.app/"
+languageCode = "ar"
+title = "عيادة د. ماجد موسى"
 theme = "PaperMod"
-
+description = "عيادة د. ماجد موسى - طب أسنان الأطفال، تقويم، زراعة، تجميل الأسنان"
