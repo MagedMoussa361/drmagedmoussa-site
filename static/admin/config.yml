@@ -1,7 +1,7 @@
 
 backend:
   name: github
-  repo: magedmoussa361/drmagedmoussa-site
+  repo: MagedMoussa361/drmagedmoussa-site
   branch: main
   squash_merges: true
 
