@@ -5,7 +5,7 @@
 backend:
   name: auth0
   auth0_domain: dev-sc0spidlz720dgyx.us.auth0.com
-  auth0_client_id: dev-sc0spidlz720dgyx
+  auth0_client_id: lxxmflBxxIQsHdHUaa1eXXjKnHIJkuBg
   repo: MagedMoussa361/drmagedmoussa-site
   branch: main
 
