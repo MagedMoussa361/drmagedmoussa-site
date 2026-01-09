@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: magedmoussa361/drmagedmoussa-site
   branch: main
 
 media_folder: "static/uploads"
